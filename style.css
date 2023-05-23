@@ -1,9 +1,5 @@
-@font-face{
-    font-family: 'Android';
-    src: url('../fontes/idroid.otf') format('opentype');
-    font-weight: normal;
-}
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bruno+Ace&display=swap');
 :root{
     --cor0: #ebe5c5;
     --cor1: #83e1ad;
@@ -14,7 +10,7 @@
 
     --fonte-destaque: 'Bebas Neue', sans-serif;
     --fonte-padrao: Arial, Verdana, Helvetica, sans-serif;
-    --fonte-android: 'Android', cursive;
+    --fonte-android: 'Bruno Ace', cursive;
 }
 *{
     margin: 0px;
